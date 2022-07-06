@@ -17,3 +17,23 @@
 
 <a href="https://github.com/bidyut1153"><img width=550 src="https://github-profile-trophy.vercel.app/?username=bidyut1153&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bidyut1153&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+> Repositories: 
+
+<p align="center">
+<a href="https://github.com/bidyut1153/bash"><img title="" src="https://github-readme-stats.vercel.app/api/pin/?username=bidyut1153&repo=bash&theme=vision-friendly-dark"></a>
+
+<p align="center">
+<a href="https://github.com/bidyut1153"><img title="" src="https://github-readme-stats.vercel.app/api/pin/?username=bidyut1153&repo=encrypt_decrypt&theme=chartreuse-dark"></a>
+
+<p align="center">
+<a href="https://github.com/bidyut1153"><img title="" src="https://github-readme-stats.vercel.app/api/pin/?username=bidyut1153&repo=BD-11-DIGIT&theme=highcontrast"></a>
+
+<p align="center">
+<a href="https://github.com/bidyut1153"><img title="" src="https://github-readme-stats.vercel.app/api/pin/?username=bidyut1153&repo=MULTI-PUBLIC&theme=midnight-purple"></a>
+
+<p align="center">
+<a href="https://github.com/bidyut1153"><img title="" src="https://github-readme-stats.vercel.app/api/pin/?username=bidyut1153&repo=decrypt&theme=vision-friendly-dark"></a>
+
+<p align="center">
+<a href="https://github.com/bidyut1153"><img title="" src="https://github-readme-stats.vercel.app/api/pin/?username=bidyut1153&repo=FLAME-2K9&theme=vision-friendly-dark"></a>
