@@ -41,9 +41,9 @@
 and more...
 
 ## Made issues by
-- termux/termux-app
-- termux/termux-packages
-- github/cli
+- [termux/termux-app](https://github.com/termux/termux-app)
+- [termux/termux-packages](https://github.com/termux/termux-packages)
+- [github/cli](https://github.com/cli/cli)
 - and other repositories
 
 ## ...
