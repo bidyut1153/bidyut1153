@@ -38,13 +38,13 @@
 <p align="center">
 <a href="https://github.com/bidyut1153/home"><img title="" src="https://github-readme-stats.vercel.app/api/pin/?username=bidyut1153&repo=home&theme=vision-friendly-dark"></a>
 
-and more...
+and [more...](https://github.com/bidyut1153?tab=repositories)
 
 ## Made issues by
 - [termux/termux-app](https://github.com/termux/termux-app)
 - [termux/termux-packages](https://github.com/termux/termux-packages)
 - [github/cli](https://github.com/cli/cli)
-- and other repositories
+- and [other](https://github.com/explore) repositories
 
 ## ...
 - Welcome to my profile!
