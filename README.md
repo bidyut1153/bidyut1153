@@ -13,5 +13,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/bidyut1153/count.svg)
 - ![Profile views](https://gpvc.arturio.dev/bidyut1153)
-- [![GitHub followers](https://img.shields.io/github/followers/bidyut1153.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/Naim75o?tab=followers)
+- [![GitHub followers](https://img.shields.io/github/followers/bidyut1153.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/bidyut1153?tab=followers)
 
+<a href="https://github.com/bidyut1153"><img width=550 src="https://github-profile-trophy.vercel.app/?username=bidyut1153&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bidyut1153&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
